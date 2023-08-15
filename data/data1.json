@@ -1,0 +1,8 @@
+
+{
+    "questionType": {
+        "QUESTIONDESCRIPTION": "Orderna de menor a mayor la lista de número y súmalos por parejas (el 1 y el 2, el 3 y el 4...). Una vez lo hayas hecho, devuelve un array con la solución de las sumas.",
+        "QUESTIONID": "c7cafb94-d726-4cf2-a1fc-2b6f156aa425",
+        "QUESTIONVALUES": ",331492,671346,386394,245979,527481,978606,"
+    }
+}
